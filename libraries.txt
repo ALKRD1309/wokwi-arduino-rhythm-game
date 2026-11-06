@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+max7219
+MD_MAX72XX
+LedController
+LedControl
+toneAC

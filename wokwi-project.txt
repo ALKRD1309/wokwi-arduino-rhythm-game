@@ -1,0 +1,8 @@
+Downloaded from https://wokwi.com/projects/449904871185146881
+
+Simulate this project on https://wokwi.com
+
+How to play:
+
+Start by pressing D, F, J , or K. Each button has different songs.
+To restart after the game over screen or after finishing the song, press R to go back to the main menu.
